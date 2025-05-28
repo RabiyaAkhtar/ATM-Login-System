@@ -1,6 +1,6 @@
 PROJECT NAME: ATM Login System
 
-DESCRIPTION: Discover the power of our Python-based ATM login system! Dive into the world of secure user authentication and account access, all seamlessly managed through the magic of a CSV file. Whether you're a curious coder or aspiring to build the next generation of banking systems, this project is your key to unlocking the ATM's secrets. This Python project serves as a basic representation of an ATM's login functionality and can be used as a starting point for more comprehensive banking systems.
+DESCRIPTION: Python-based ATM login system: Dive into the world of secure user authentication and account access, all seamlessly managed through the magic of a CSV file. Whether you're a curious coder or aspiring to build the next generation of banking systems, this project is your key to unlocking the ATM's secrets. This Python project serves as a basic representation of an ATM's login functionality and can be used as a starting point for more comprehensive banking systems.
 
 WHAT'S INSIDE:
 
